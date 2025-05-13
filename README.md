@@ -1,6 +1,5 @@
 # Stellar Classification via Log Scaled HR-Diagram Analysis
-
-> Intro ML project exploring stellar data through log-scaled temperature and luminosity.
+Intro ML project exploring stellar data through log-scaled temperature and luminosity.
 
 ---
 
@@ -12,8 +11,7 @@ May 2026
 ---
 
 ## Hypothesis
-
-> **Can logarithmic scales of temperature and luminosity be used to reproduce a Hertzsprung–Russell-type diagram with this dataset?**
+**Can logarithmic scales of temperature and luminosity be used to reproduce a Hertzsprung–Russell-type diagram with this dataset?**
 
 ---
 
