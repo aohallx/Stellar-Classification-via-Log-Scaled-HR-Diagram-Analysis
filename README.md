@@ -17,7 +17,7 @@ May 2026
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 This is a 6-class star dataset used for classification with deep learning approaches, sourced from Kaggle. It contains:
 
