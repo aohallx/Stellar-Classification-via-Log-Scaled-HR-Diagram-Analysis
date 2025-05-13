@@ -68,4 +68,6 @@ Through exploratory data analysis and plotting, the log-scaled values of tempera
 ```bash
 ├── notebook.ipynb       # Full Jupyter Notebook with analysis and visuals
 ├── predictStarTypes.csv
+├── hrdiagram.jpg
 └── README.md
+
