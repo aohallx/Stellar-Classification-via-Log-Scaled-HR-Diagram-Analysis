@@ -5,8 +5,8 @@ Intro ML project exploring stellar data through log-scaled temperature and lumin
 
 ## Data Analyzed by  
 **Aidan O'Halloran**  
-[linkedin.com/in/aohallx](https://www.linkedin.com/in/aohallx/)
-May 2026  
+[linkedin.com/in/aohallx](https://www.linkedin.com/in/aohallx/) 
+"\n"May 2026  
 
 ---
 
